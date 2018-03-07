@@ -5,3 +5,4 @@ IDE                  ==> Visual Studio 2015
 GUI Design           ==> Qt (https://www.qt.io)
 Team Organization    ==> Democratic Team
 Data Storage         ==> .txt or .csv files
+UML Diagram          ==> ??? (Object Diagram)
